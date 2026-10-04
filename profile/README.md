@@ -28,6 +28,8 @@
 
 Alongside client work, RexCode builds Shopify apps, ecommerce software and practical tools for merchants and commerce teams.
 
+See our [repository licensing and provenance policy](https://github.com/RexCode-Digital/.github/blob/main/REPOSITORY-LICENSING.md).
+
 Our product work is focused on solving specific operational problems with software that is reliable, maintainable and useful in production.
 
 ## Engineering & open source
