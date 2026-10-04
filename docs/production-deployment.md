@@ -14,7 +14,7 @@ This procedure covers the commercial Shopify applications hosted on Vercel:
 - Pull requests use Vercel Preview deployments for review.
 - `main` remains each project's production branch. A push to `main` may create a Vercel Production deployment, but Vercel's **Auto-assign Custom Production Domains** setting is disabled for all four projects. A new build therefore does not take over the customer-facing domains automatically.
 - The current production domains remain attached to the last intentionally promoted deployment.
-- A company owner must explicitly promote a reviewed build before it serves the production domains.
+- An authorized Vercel project administrator must explicitly promote a reviewed build before it serves the production domains.
 
 ## Intentional production release
 
