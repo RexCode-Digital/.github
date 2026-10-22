@@ -24,13 +24,18 @@
 | **Technical support** | Ongoing maintenance, troubleshooting, platform support and operational improvements. |
 | **Automation & growth** | Email marketing, ecommerce automation, integrations and growth-focused technical work. |
 
-## Products & software
+## Shopify developer tools
 
-Alongside client work, RexCode builds Shopify apps, ecommerce software and practical tools for merchants and commerce teams.
+These independent, MIT-licensed tools provide offline checks for common Shopify development workflows:
 
-See our [repository licensing and provenance policy](https://github.com/RexCode-Digital/.github/blob/main/REPOSITORY-LICENSING.md) and [security policy](https://github.com/RexCode-Digital/.github/blob/main/SECURITY.md).
+| Tool | Use |
+| --- | --- |
+| [ChangeGuard](https://github.com/RexCode-Digital/shopify-app-changeguard) | Review semantic Shopify app configuration changes in CI. |
+| [Shopify Upgrade Guard](https://github.com/RexCode-Digital/shopify-upgrade-guard) | Find documented API and platform migration risks against a target version. |
+| [Shopify Scope Guard](https://github.com/RexCode-Digital/shopify-scope-guard) | Compare requested scopes with supported static evidence. |
+| [Shopify App Review Guard](https://github.com/RexCode-Digital/shopify-app-review-guard) | Review app repositories for App Store and production-readiness evidence. |
 
-Our product work is focused on solving specific operational problems with software that is reliable, maintainable and useful in production.
+Each tool has its own release, repository, and limitations. They are not affiliated with or endorsed by Shopify. See the [RexCode Open Source standards](https://github.com/RexCode-Digital/.github/blob/main/docs/oss/standards.md), [repository licensing and provenance policy](https://github.com/RexCode-Digital/.github/blob/main/REPOSITORY-LICENSING.md), and [security policy](https://github.com/RexCode-Digital/.github/blob/main/SECURITY.md).
 
 ## Engineering & open source
 
